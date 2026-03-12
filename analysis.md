@@ -87,7 +87,7 @@ job:
 ## 6. 최종 산출물
 
 ### 제안서 사이트 URL
-https://blue-verse.github.io/proposal-k-beauty-platform/
+https://proposal-k-beauty-platform.pages.dev/
 
 ### 지원 금액
 90,000,000원
