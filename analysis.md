@@ -87,7 +87,7 @@ job:
 ## 6. 최종 산출물
 
 ### 제안서 사이트 URL
-https://proposal-k-beauty-platform.pages.dev/
+https://proposal-router.claude-ai-b27.workers.dev/proposal-k-beauty-platform/
 
 ### 지원 금액
 90,000,000원
